@@ -28,3 +28,7 @@ A feature-rich desktop assistant application built using Python and PyQt6. It fe
    ```bash
    git clone [https://github.com/bharadwaj-pandaraboina/desktop-speech-assistant.git](https://github.com/bharadwaj-pandaraboina/desktop-speech-assistant.git)
    cd desktop-speech-assistant
+   python -m venv venv
+   source venv/bin/activate
+   pip install -r requirements.txt
+   python app.py
