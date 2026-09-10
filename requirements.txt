@@ -1,0 +1,7 @@
+PyQt6==6.6.1
+pyttsx3==2.90
+pyperclip==1.8.2
+sounddevice==0.4.6
+numpy==1.26.3
+scipy==1.11.4
+SpeechRecognition==3.10.1
